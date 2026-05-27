@@ -69,7 +69,7 @@ plt.colorbar(scatter, label='Cluster')
 plt.show()
 ```
 ### Output:
-<img width="714" height="457" alt="image" src="https://github.com/user-attachments/assets/5fae2018-04de-409b-83e1-33a14e739ba5" /
+<img width="714" height="457" alt="image" src="https://github.com/user-attachments/assets/5fae2018-04de-409b-83e1-33a14e739ba5" />
 <img width="719" height="454" alt="image" src="https://github.com/user-attachments/assets/ca721144-7d5a-45f8-ba1a-3b66056dc74f" />
 
 
